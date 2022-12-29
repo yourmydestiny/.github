@@ -52,7 +52,7 @@
 `https://mytamla.netlify.app/`
 
 ### Backend API Docs 
-`http://52.78.123.77/swagger-ui/index.html#`
+`https://sum22.notion.site/api-bb29128cd40f44719d8dfb6aef78f143`
 
 ### gjf (시연)
 ![배경화면](https://user-images.githubusercontent.com/103626175/209897331-b9ed7ff7-ef2c-48c0-9e95-b969ca1820d9.gif)<br>
