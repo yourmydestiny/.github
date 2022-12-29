@@ -1,51 +1,63 @@
 <div align="center">
 
-# **구름톤 1기 최우수상**
+# **구름톤 4기 최우수상**
 
-<img src="https://user-images.githubusercontent.com/77133565/199910646-ff3ca5d0-67c6-4279-a10d-c7e8d7993525.png" width="150px"><br>
+<img src="https://user-images.githubusercontent.com/103626175/209896642-0076c096-f6d9-4ee3-8013-13dddb3ae36b.png" width="150px"><br>
 
 
-    제주 비상품 귤 문제 해결을 위한 사용자 위치 기반 감귤 나눔 서비스
+    질문들을 통해 나의 제주를 추천받고 환경문제로인한 현재와 제주의 미래대비를 통한 경각심을 알려주는 서비스
 
 </div>
+
 
 <br>
 
 
 ## 프로젝트 개요
-
-제주 관광객들을 대상으로 현위치 기준으로 가까운 농장에서 비상품 귤을 나눔해주는 서비스입니다.
-관광객들은 위치를 기반으로 가까운 농장에서 비상품 귤을 나눔 받을 수 있고, 농민은 비상품귤을 처리하는 동시에, 자신의 농장을 관광객들에게 홍보할 수 있습니다.
+현재 제주도의 환경문제에 대한 인식을 높이기위해 만든 서비스입니다.
+유저들은 본인에게 맞는 제주를 추천받고 해당 지역근처의 숙소, 맛집을 추천받을 수 있습니다. 추가적으로 나의 제주 미래와 비교하여 현재 환경문제를 인지 할 수 있습니다.
 
 <br/>
 
-## 📍 위치 기반 귤 나눔 농가 추천 서비스
+## 📍 데이터 기반 질문지 서비스
 
 
-사용자의 위치 기반으로 원하는 반경 내의 귤을 나눔하는 농가를 랜덤으로 추천해 드립니다.
-
-<p align="center"><img src="https://user-images.githubusercontent.com/77133565/199912615-f49f1de6-46f8-4a41-b9e3-36ac78f3d982.png" height="450px"> </p>
-
-## 📑 쉬운 상품 관리
+사용자의 성향을 기반으로 원하는 답안을 선택할 수 있습니다.
 
 
-농부는 귤을 나눔 할 개수와 나눔이 가능한 시간을 설정하고 나눔을 시작할 수 있습니다.  
-나눔을 시작하면 현재 진행중인 나눔과 과거 나눔 기록을 확인할 수 있습니다.
+<p align="center"><img src="https://user-images.githubusercontent.com/103626175/209898173-ca1add7b-007f-4a42-a3a2-b6051a81501e.png" height="450px"> </p>
+
+## 📑 나의 제주
+
+나에게 맞는 제주를 추천받을 수 있습니다.
+추천받은 제주 근처의 맛집, 숙소, 레크리에이션을 추천받을 수 있습니다.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77133565/199913410-585d6085-e9a0-4ea6-a3b8-0c47adc41b7f.png" height="450px">  
+<img src="https://user-images.githubusercontent.com/103626175/209898248-ebc7f676-f241-4551-bd83-34c328ac9e70.png" height="450px">  
+<img src="https://user-images.githubusercontent.com/103626175/209898262-17175f35-d781-4c35-ba41-d800be76354b.png" height="450px">  
 </p>
+
+## 미래의 제주
+
+환경문제로 망가진 미래의 제주에 대한 일러스트를 확인가능합니다.
+미래의 제주를 개선하기위해 현재 할 수 있는 다양한 환경활동들을 추천받습니다.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103626175/209898322-53e0d28c-a3fd-4656-85b8-a22c7b0bd829.png" height="450px">  
+<img src="https://user-images.githubusercontent.com/103626175/209898384-0c96545d-90f8-4ef3-b6ac-d95b883fc993.png" height="450px">  
+</p>
+
 
 # 📎 Link
 ### Frontend Domain
-`업데이트 예정`
+`https://mytamla.netlify.app/`
 
 ### Backend API Docs 
 `http://52.78.123.77/swagger-ui/index.html#`
 
-### Youtube (시연)
-`https://youtu.be/zlroW6naiLE`
-
+### gjf (시연)
+![배경화면](https://user-images.githubusercontent.com/103626175/209897331-b9ed7ff7-ef2c-48c0-9e95-b969ca1820d9.gif)<br>
+![리얼메인](https://user-images.githubusercontent.com/103626175/209897333-b8491109-f0d1-46b1-9dbf-b958832548f7.gif)<br>
+![셀렉트](https://user-images.githubusercontent.com/103626175/209897354-109ac71e-c046-4f4d-a30b-1ec2b72b3049.gif)<br>
 
 
 # 🏠 Members
@@ -53,6 +65,6 @@
 
 ### 제 1회 kakao x goorm 9oormthon, 4567조
 
-|                      기획                       |                프론트                |                백                |                디자이너                |
+|                      기획                       |                프론트(리더)                |                프론트                |                백                |
 | :---------------------------------------------: | :----------------------------------: | :------------------------------: | :------------------------------------: |
-|<img src="https://avatars.githubusercontent.com/u/82494506?v=4" alt="leeyejin1231" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/77133565?v=4" alt="tooooo1" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/76844556?v=4" alt="soleu" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/111728743?v=4" alt="chemin72" width="100" height="100">| [leeyejin1231](https://github.com/leeyejin1231) | [tooooo1](http://github.com/tooooo1) | [soleu](http://github.com/soleu) | [chemin72](http://github.com/chemin72) |
+|<img src="https://avatars.githubusercontent.com/u/102569551?s=100&v=4" alt="soyanggaeng" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/103626175?v=4" alt="endmoseung" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/97172321?v=4" alt="zinukk" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/78305431?v=4" alt="Jeongminyooa" width="100" height="100">| [soyanggaeng](https://github.com/soyanggaeng) | [endmoseung](https://github.com/endmoseung?tab=following) | [zinukk](https://github.com/zinukk) | [Jeongminyooa](https://github.com/Jeongminyooa) |
